@@ -1,1 +1,1 @@
-### Its digital clock with js
+###  digital clock with js
